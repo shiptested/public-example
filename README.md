@@ -63,4 +63,4 @@ This is a teaching harness, not a production SaaS and not a security certificati
 - [Lemon Squeezy webhook signing](https://docs.lemonsqueezy.com/help/webhooks/signing-requests)
 - [Lemon Squeezy order object](https://docs.lemonsqueezy.com/api/orders/the-order-object)
 
-Built by [ShipTested](https://shiptested.pages.dev): launch-readiness for vibe-coded SaaS.
+Built by [ShipTested](https://shiptested.github.io): launch-readiness for vibe-coded SaaS.
