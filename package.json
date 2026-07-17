@@ -1,0 +1,17 @@
+{
+  "name": "shiptested-launch-failures",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Executable teaching harness for three failures in AI-built SaaS money paths.",
+  "type": "module",
+  "scripts": {
+    "demo": "node scripts/demo.mjs",
+    "test": "node --test test/*.test.mjs",
+    "test:launch": "node --test test/fixed.test.mjs",
+    "test:failures": "node --test test/vulnerable.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
