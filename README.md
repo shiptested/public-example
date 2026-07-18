@@ -33,6 +33,14 @@ Expected output:
    still grant access exactly once.
    [Read the teardown](https://shiptested.github.io/articles/webhook-idempotency/)
 
+## The full course is launching soon
+
+**_Ship the Last 20%_** turns these teardowns into a course you *run*. These three failures are the free preview; the course covers all six on the money path — plus the service-role key that skips RLS, client-bundle secret leaks, and refund / test-vs-live gaps — each with a step-by-step you run against **your own** app, and a go/no-go launch-readiness workbook.
+
+**⭐ Star this repo and click _Watch → Custom → Releases_ to get notified the moment it launches** (no email needed — GitHub pings you).
+
+Preview now: **[free Lesson 1](https://shiptested.github.io/free-lesson/)** · **[launch checklist](https://shiptested.github.io/checklist/)** · **[all teardowns](https://shiptested.github.io/articles/)**
+
 ## Explore
 
 ```bash
