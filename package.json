@@ -6,9 +6,10 @@
   "type": "module",
   "scripts": {
     "demo": "node scripts/demo.mjs",
-    "test": "node --test test/*.test.mjs",
+    "test": "node --test test/fixed.test.mjs",
     "test:launch": "node --test test/fixed.test.mjs",
-    "test:failures": "node --test test/vulnerable.test.mjs"
+    "test:failures": "node --test test/vulnerable.test.mjs",
+    "test:all": "node --test test/*.test.mjs"
   },
   "engines": {
     "node": ">=20"
